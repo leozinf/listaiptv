@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1  tvg-logo="https://s3-sa-east-1.amazonaws.com/dejavuproject/storage/26/content/56c2f6e5-3efc-4478-a521-05dac0f071ad-aeuseast.png", A&E HD
 https://live-edge-4.ddnsudamerica.com/A_E_HD/abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xOC8yMDE3IDE6MTY6MDQgUE0maGFzaF92YWx1ZT1QOTRvaHFZZkRsam9LTHBESjQxdDR3PT0mdmFsaWRtaW51dGVzPTE0NDA=
 

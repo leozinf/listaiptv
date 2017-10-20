@@ -1,0 +1,259 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="2617" tvg-name="BR-WOOHOO", WOOHOO
+http://163.172.218.177:2200/BR1/woohoo-br/index.m3u8
+#EXTINF:0 type="stream" channelId="984" tvg-name="BR-VIVA", VIVA
+http://163.172.218.177:2200/BR1/viva-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2627" tvg-name="BR-VH1MEGAHITS", VH1MEGAHITS
+http://163.172.218.177:2200/BR1/vh1megahits-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2902" tvg-name="BR-VH1HD", VH1HD
+http://147.135.220.87:8877/live/7qSeanCZTY/6opopWO3yI/165.m3u8
+#EXTINF:0 type="stream" channelId="3317" tvg-name="BR-UNIVERSALCHANNELHD", UNIVERSALCHANNELHD
+http://163.172.218.177:2200/BR1/universalchannelhd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2567" tvg-name="BR-TVSENADO", TVSENADO
+http://163.172.218.177:2200/BR1/tvsenado-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2569" tvg-name="BR-TVESCOLA", TVESCOLA
+http://163.172.218.177:2200/BR1/tvescola-br/index.m3u8
+#EXTINF:0 type="stream" channelId="378" tvg-name="BR-TVE", TVE
+http://163.172.218.177:2200/BR1/tve-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2466" tvg-name="BR-TVBRASIL", TVBRASIL
+http://163.172.218.177:2200/BR1/tvbrasil-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2448" tvg-name="BR-TVAPARECIDA", TVAPARECIDA
+http://163.172.218.177:2200/BR1/tvaparecida-br/index.m3u8
+#EXTINF:0 type="stream" channelId="140" tvg-name="BR-TV5", TV5
+http://163.172.218.177:2200/BR1/tv5-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2639" tvg-name="BR-TOONCAST", TOONCAST
+http://163.172.218.177:2200/BR1/tooncast-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2900" tvg-name="BR-TNTHD", TNTHD
+http://163.172.218.177:2200/BR1/tnthd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="895" tvg-name="BR-TCM", TCM
+http://163.172.218.177:2200/BR1/tcm-br/index.m3u8
+#EXTINF:0 type="stream" channelId="3228" tvg-name="BR-TBS", TBS
+http://163.172.218.177:2200/BR1/tbs-br/index.m3u8
+#EXTINF:0 type="stream" channelId="73" tvg-name="BR-SYFY", SYFY
+http://163.172.218.177:2200/BR1/syfy-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2625" tvg-name="BR-STUDIOUNIVERSAL", STUDIOUNIVERSAL
+http://163.172.218.177:2200/BR1/studiouniversal-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-SPORTTVHD2" tvg-logo="https://listaiptvbrasil.com/logo/sportv.png", SPORTTVHD2
+http://163.172.218.177:2200/BR1/sporttvhd2-br/index.m3u8
+#EXTINF:0 type="stream" channelId="3242" tvg-name="BR-SPORTTVHD" tvg-logo="https://listaiptvbrasil.com/logo/sportv.png", SPORTTVHD
+http://163.172.218.177:2200/BR1/sporttvhd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2859" tvg-name="BR-SPORTTV3HD" tvg-logo="https://listaiptvbrasil.com/logo/sportv.png", SPORTTV3HD
+http://163.172.218.177:2200/BR1/sporttv3hd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="383" tvg-name="BR-SPACE", SPACE
+http://163.172.218.177:2200/BR1/space-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2598" tvg-name="BR-SICINTERNACIONAL", SICINTERNACIONAL
+http://163.172.218.177:2200/BR1/sicinternacional-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2452" tvg-name="BR-RIT", RIT
+http://163.172.218.177:2200/BR1/rit-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2451" tvg-name="BR-REDEVIDA", REDEVIDA
+http://163.172.218.177:2200/BR1/redevida-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2446" tvg-name="BR-REDEGOSPEL", REDEGOSPEL
+http://163.172.218.177:2200/BR1/redegospel-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2460" tvg-name="BR-REDE21", REDE21
+http://163.172.218.177:2200/BR1/rede21-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2593" tvg-name="BR-PRIMEBOXBRASIL", PRIMEBOXBRASIL
+http://163.172.218.177:2200/BR1/primeboxbrasil-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-PREMIERECLUBESHD" tvg-logo="http://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png", PREMIERECLUBESHD
+http://163.172.218.177:2200/BR1/premiereclubeshd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-PREMIERE7" tvg-logo="http://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png", PREMIERE7
+http://163.172.218.177:2200/BR1/premiere7-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-PREMIERE6" tvg-logo="http://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png", PREMIERE6
+http://163.172.218.177:2200/BR1/premiere6-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-PREMIERE5HD" tvg-logo="http://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png", PREMIERE5HD
+http://163.172.218.177:2200/BR1/premiere5hd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-PREMIERE4HD" tvg-logo="http://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png", PREMIERE4HD
+http://163.172.218.177:2200/BR1/premiere4hd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-PREMIERE3HD" tvg-logo="http://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png", PREMIERE3HD
+http://163.172.218.177:2200/BR1/premiere3hd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-PREMIERE2HD" tvg-logo="http://2.bp.blogspot.com/-UZaeucFWclY/Vfq9cLOaGkI/AAAAAAAAAzU/VYv_I4jvAcc/s1600/PFC.png", PREMIERE2HD
+http://163.172.218.177:2200/BR1/premiere2hd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-POLISHOPTV" tvg-logo="http://4.bp.blogspot.com/-aS8aIr3fLhM/VXChPV3EsKI/AAAAAAAAAEY/rh3qfUqyLLU/s1600/Polishop6-1.png", POLISHOPTV
+http://163.172.218.177:2200/BR1/polishoptv-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-PARAMOUNTHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Paramount_Channel.png", PARAMOUNTHD
+http://163.172.218.177:2200/BR1/paramounthd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-OFFHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Canal_Off_logo.svg/1200px-Canal_Off_logo.svg.png", OFFHD
+http://163.172.218.177:2200/BR1/offhd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="322" tvg-name="BR-NICKJR", NICKJR
+http://163.172.218.177:2200/BR1/nickjr-br/index.m3u8
+#EXTINF:0 type="stream" channelId="41" tvg-name="BR-NICKELODEON", NICKELODEON
+http://163.172.218.177:2200/BR1/nickelodeon-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2568" tvg-name="BR-NBR", NBR
+http://163.172.218.177:2200/BR1/nbr-br/index.m3u8
+#EXTINF:0 type="stream" channelId="206" tvg-name="BR-NATGEOWILDHD", NATGEOWILDHD
+http://163.172.218.177:2200/BR1/natgeowildhd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="207" tvg-name="BR-NATGEOHD", NATGEOHD
+http://163.172.218.177:2200/BR1/natgeohd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2591" tvg-name="BR-MUSICBOXBRAZIL", MUSICBOXBRAZIL
+http://163.172.218.177:2200/BR1/musicboxbrasil-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2590" tvg-name="BR-MULTISHOWHD", MULTISHOWHD
+http://163.172.218.177:2200/BR1/multishowhd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="1484" tvg-name="BR-MTVHD", MTVHD
+http://163.172.218.177:2200/BR1/mtvhd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2819" tvg-name="BR-MEGA", MEGA
+http://163.172.218.177:2200/BR1/mega-br/index.m3u8
+#EXTINF:0 type="stream" channelId="361" tvg-name="BR-MAXUP", MAXUP
+http://163.172.218.177:2200/BR1/maxup-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-MAXPRIMEHD" tvg-logo="http://mixdeseries.com.br/wp-content/uploads/sites/61/2015/01/max_prime_oeste.png", MAXPRIMEHD
+http://163.172.218.177:2200/BR1/maxprimehd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2725" tvg-name="BR-MAX", MAX
+http://163.172.218.177:2200/BR1/max-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-MAISGLOBOSAT" tvg-logo="http://3.bp.blogspot.com/-qMA4GclW_kA/VpbU4LOdQXI/AAAAAAAAm6c/vN9FQklxOio/s1600/globosat.png", MAISGLOBOSAT
+http://163.172.218.177:2200/BR1/maisglobosat-br/index.m3u8
+#EXTINF:0 type="stream" channelId="3504" tvg-name="BR-LIFETIMEHD", LIFETIMEHD
+http://163.172.218.177:2200/BR1/lifetimehd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2455" tvg-name="BR-IDEALTV", IDEALTV
+http://163.172.218.177:2200/BR1/idealtv-br/index.m3u8
+#EXTINF:0 type="stream" channelId="1456" tvg-name="BR-HISTORYHD", HISTORYHD
+http://163.172.218.177:2200/BR1/historyhd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="1202" tvg-name="BR-H2HD", H2HD
+http://163.172.218.177:2200/BR1/h2hd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2722" tvg-name="BR-GNTHD", GNTHD
+http://163.172.218.177:2200/BR1/gnthd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-GLOOBHD" tvg-logo="http://1.bp.blogspot.com/-WYc5DNsRFjE/UG9RQ6RaigI/AAAAAAAAAmA/Odphlv76eRs/w1200-h630-p-k-no-nu/gloob.png", GLOOBHD
+http://163.172.218.177:2200/BR1/gloobhd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2893" tvg-name="BR-GLOBONEWSHD", GLOBONEWSHD
+http://163.172.218.177:2200/BR1/globonewshd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2437" tvg-name="BR-GAZETA", GAZETA
+http://163.172.218.177:2200/BR1/gazeta-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2454" tvg-name="BR-FUTURA", FUTURA
+http://163.172.218.177:2200/BR1/futura-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2891" tvg-name="BR-FOXSPORTSHD", FOXSPORTSHD
+http://163.172.218.177:2200/BR1/foxsportshd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="179" tvg-name="BR-FOXSPORTS2HD", FOXSPORTS2HD
+http://163.172.218.177:2200/BR1/foxsports2hd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-FOXPREMIUM2HD" tvg-logo="https://pages.foxites.com/about/whatsfox/img/logo_foxpremium2_pt.png", FOXPREMIUM2HD
+http://163.172.218.177:2200/BR1/foxpremium2hd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="1720" tvg-name="BR-FOODNETWORKHD", FOODNETWORKHD
+http://163.172.218.177:2200/BR1/foodnetworkhd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2633" tvg-name="BR-FISHTV", FISHTV
+http://163.172.218.177:2200/BR1/fishtv-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-ESPNPLUSHD" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2015/01/ESPN-Plus.png", ESPNPLUSHD
+http://163.172.218.177:2200/BR1/espnplushd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-EMAXXHD" tvg-logo="http://1.bp.blogspot.com/-VFKj9xl2gQg/VegRSuWf97I/AAAAAAAAcdo/IPzmejSqr4I/s1600/EIMAXX-NOVO.png", EMAXXHD
+http://163.172.218.177:2200/BR1/emaxxhd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-EMAXX2HD" tvg-logo="http://4.bp.blogspot.com/-pXwMJNPfpHk/WQHqwaeP9qI/AAAAAAAAAjU/cJuuPALLlXclGJm5p_msQhOSH88-GN7ugCLcB/s1600/eimaxx2.png", EMAXX2HD
+http://163.172.218.177:2200/BR1/emaxx2hd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-EHD" tvg-logo="http://www.atelevisao.com/wp-content/uploads/2012/06/E.png", EHD
+http://163.172.218.177:2200/BR1/ehd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="1198" tvg-name="BR-DISNEYXD", DISNEYXD
+http://163.172.218.177:2200/BR1/disneyxd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="1197" tvg-name="BR-DISNEYJUNIOR", DISNEYJUNIOR
+http://163.172.218.177:2200/BR1/dineyjunior-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2720" tvg-name="BR-DISNEYCHANNELHD", DISNEYCHANNELHD
+http://163.172.218.177:2200/BR1/disneychannelhd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-DISCOVERYTURBOHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Discovery_Turbo.png/400px-Discovery_Turbo.png", DISCOVERYTURBOHD
+http://163.172.218.177:2200/BR1/discoveryturbohd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="58" tvg-name="BR-DISCOVERYSCIENCE", DISCOVERYSCIENCE
+http://163.172.218.177:2200/BR1/discoveryscience-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2837" tvg-name="BR-DISCOVERYKIDSHD", DISCOVERYKIDSHD
+http://163.172.218.177:2200/BR1/discoverykidshd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2841" tvg-name="BR-DISCOVERYCIVILIZATION", DISCOVERYCIVILIZATION
+http://163.172.218.177:2200/BR1/discoverycivilization-br/index.m3u8
+#EXTINF:0 type="stream" channelId="341" tvg-name="BR-DISCOVERYCHANNELHD", DISCOVERYCHANNELHD
+http://163.172.218.177:2200/BR1/discoverychannelhd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-DISCHOMEHEALTHHD" tvg-logo="http://www.lamac.org/res/channels/logos/_0040_discovery_hh.png", DISCHOMEHEALTHHD
+http://163.172.218.177:2200/BR1/dischomehelthhd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2577" tvg-name="BR-CURTA", CURTA
+http://163.172.218.177:2200/BR1/curta-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2467" tvg-name="BR-CULTURA", CULTURA
+http://163.172.218.177:2200/BR1/cultura-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-COMBATEHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Combate_Flat_Sem_Slogan_png.png", COMBATEHD
+http://163.172.218.177:2200/BR1/combatehd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2439" tvg-name="BR-CNT", CNT
+http://163.172.218.177:2200/BR1/cnt-br/index.m3u8
+#EXTINF:0 type="stream" channelId="120" tvg-name="BR-CNNINTERNATIONAL", CNNINTERNATIONAL
+http://163.172.218.177:2200/BR1/cnninternational-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2888" tvg-name="BR-CINEMAXHD", CINEMAXHD
+http://163.172.218.177:2200/BR1/cinemaxhd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="40" tvg-name="BR-CARTOONNETWORK", CARTOONNETWORK
+http://163.172.218.177:2200/BR1/cartoonnetwork-br/index.m3u8
+#EXTINF:0 type="stream" channelId="351" tvg-name="BR-CANALSONYHD", CANALSONYHD
+http://163.172.218.177:2200/BR1/canalsonyhd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2652" tvg-name="BR-CANALRURAL", CANALRURAL
+http://163.172.218.177:2200/BR1/canalrural-br/index.m3u8
+#EXTINF:0 type="stream" channelId="1357" tvg-name="BR-CANAL2", CANAL2
+http://163.172.218.177:2200/BR1/canal2-br/index.m3u8
+#EXTINF:0 type="stream" channelId="321" tvg-name="BR-BOOMERANG", BOOMERANG
+http://163.172.218.177:2200/BR1/boomerang-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2618" tvg-name="BR-BOAVONTADETV", BOAVONTADETV
+http://163.172.218.177:2200/BR1/boavontadetv-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2718" tvg-name="BR-BISHD", BISHD
+http://163.172.218.177:2200/BR1/bishd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2575" tvg-name="BR-BANDSPORTSHD", BANDSPORTSHD
+http://163.172.218.177:2200/BR1/bandsportshd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2573" tvg-name="BR-BANDNEWS", BANDNEWS
+http://163.172.218.177:2200/BR1/bandnews-br/index.m3u8
+#EXTINF:0 type="stream" channelId="473" tvg-name="BR-BABYTV", BABYTV
+http://163.172.218.177:2200/BR1/babytv-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2246" tvg-name="BR-AXNHD", AXNHD
+http://163.172.218.177:2200/BR1/axnhd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2572" tvg-name="BR-ARTE1", ARTE1
+http://163.172.218.177:2200/BR1/arte1-br/index.m3u8
+#EXTINF:0 type="stream" channelId="240" tvg-name="BR-ANIMALPLANETHD", ANIMALPLANETHD
+http://163.172.218.177:2200/BR1/animalplanethd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-AEHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A%26E_HD.png/320px-A%26E_HD.png", AEHD
+http://163.172.218.177:2200/BR1/aehd-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2584" tvg-name="BR-5037", HBO FAMILY
+http://163.172.218.177:2200/BR1/5037-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-5036", 5036
+http://163.172.218.177:2200/BR1/5036-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2585" tvg-name="BR-5035", HBO PLUS
+http://163.172.218.177:2200/BR1/5035-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2583" tvg-name="BR-5034", HBO SIGNATURE
+http://163.172.218.177:2200/BR1/5034-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-5033" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png", HBO 2
+http://163.172.218.177:2200/BR1/5033-br/index.m3u8
+#EXTINF:0 type="stream" channelId="1330" tvg-name="BR-5030", HBO
+http://163.172.218.177:2200/BR1/5030-br/index.m3u8
+#EXTINF:0 type="stream" channelId="178" tvg-name="BR-5029", FOX LIFE
+http://163.172.218.177:2200/BR1/5029-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-5028" tvg-logo="http://cdn.foxplay.com/sites/foxplay/files/img/helpdesk/logo-fox-premium.png", FOX PREMIUM 1
+http://163.172.218.177:2200/BR1/5028-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2578" tvg-name="BR-5027", ESPN BRASIL
+http://163.172.218.177:2200/BR1/5027-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2540" tvg-name="BR-5026", ESPN
+http://163.172.218.177:2200/BR1/5026-br/index.m3u8
+#EXTINF:0 type="stream" channelId="352" tvg-name="BR-5025", DW
+http://163.172.218.177:2200/BR1/5025-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2839" tvg-name="BR-5021", DISCOVERY WORLD
+http://163.172.218.177:2200/BR1/5021-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-5020" tvg-logo="http://xdsummit.com/wp-content/uploads/2016/01/WB.png", WB
+http://163.172.218.177:2200/BR1/5020-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-5019" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png", TNT SERIES
+http://163.172.218.177:2200/BR1/5019-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-5018" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/discoverytheater.png", DISCOVERY THEATER
+http://163.172.218.177:2200/BR1/5018-br/index.m3u8
+#EXTINF:0 type="stream" channelId="1303" tvg-name="BR-5017", FX
+http://163.172.218.177:2200/BR1/5017-br/index.m3u8
+#EXTINF:0 type="stream" channelId="177" tvg-name="BR-5016", FOX
+http://163.172.218.177:2200/BR1/5016-br/index.m3u8
+#EXTINF:0 type="stream" channelId="59" tvg-name="BR-5015", DISCOVERY ID
+http://163.172.218.177:2200/BR1/5015-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2588" tvg-name="BR-5014", MEGAPIX
+http://163.172.218.177:2200/BR1/5014-br/index.m3u8
+#EXTINF:0 type="stream" channelId="67" tvg-name="BR-5013", TLC
+http://163.172.218.177:2200/BR1/5013-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2605" tvg-name="BR-5012", TELECINE CULT
+http://163.172.218.177:2200/BR1/5012-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2608" tvg-name="BR-5011", TELECINE PIPOCA
+http://163.172.218.177:2200/BR1/5011-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2606" tvg-name="BR-5010", TELECINE FUN
+http://163.172.218.177:2200/BR1/5010-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2611" tvg-name="BR-5009", TELECINE TOUCH
+http://163.172.218.177:2200/BR1/5009-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2603" tvg-name="BR-5008", TELECINE ACTION
+http://163.172.218.177:2200/BR1/5008-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2610" tvg-name="BR-5007", TELECINE PREMIUM
+http://163.172.218.177:2200/BR1/5007-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2433" tvg-name="BR-5006", SBT
+http://163.172.218.177:2200/BR1/5006-br/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-name="BR-5005" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png", REDE TV
+http://163.172.218.177:2200/BR1/5005-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2456" tvg-name="BR-5004", RECORD NEWS
+http://163.172.218.177:2200/BR1/5004-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2434" tvg-name="BR-5003", BAND
+http://163.172.218.177:2200/BR1/5003-br/index.m3u8
+#EXTINF:0 type="stream" channelId="1031" tvg-name="BR-5002", RECORD
+http://163.172.218.177:2200/BR1/5002-br/index.m3u8
+#EXTINF:0 type="stream" channelId="2432" tvg-name="BR-5001", GLOBO
+http://163.172.218.177:2200/BR1/5001-br/index.m3u8
